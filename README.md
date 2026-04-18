@@ -247,7 +247,7 @@ Authorization: Bearer <token>
 
 ## 👨‍💻 Author
 
-**Koushik Reddy**
+**Team**
 
 ---
 
